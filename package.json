@@ -1,0 +1,23 @@
+{
+  "name": "Cybozu",
+  "version": "1.0.0",
+  "description": "Cybozu",
+  "main": "index.js",
+  "author": "Kei Yatuhashi <keyansuiya@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://cybozulive.com/",
+    "serviceName": "Cybozu",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
